@@ -3,9 +3,8 @@
 
 def key_for_min_value(name_hash)
   
-  name_hash.each_value do |name, number|
-    if lowest_num = number < number
-    end 
-    name
+  name_hash.each_value do |number|
+    
+    
   end
 end
